@@ -1,4 +1,3 @@
 profile
 =======
-
-Crafter user repository.
+ JDK 1.7 Require
